@@ -1,13 +1,13 @@
 <!-- ---
 layout: page 
-# Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing
+# Human Pose Estimation for Expressive Movement Descriptors in Vocal Music Performance
 --- -->
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) -->
 
-<img align="center" src="images/SFO.png" width="192"> <img align="right" src="images/logo.png" width="60"> 
+<img align="center" src="images/SFO.png" width="192"> <img align="right" src="images/logo.png" width="192"> 
 
-# Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing
+# Human Pose Estimation for Expressive Movement Descriptors in Vocal Music Performance
 
 <b>Sujoy Roychowdhury, Preeti Rao, Sharat Chandran </b>
 
