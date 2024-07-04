@@ -1,4 +1,15 @@
-## Supplementary Material for "Human Pose Estimation for Expressive Movement Descriptors in Vocal Music Performances"
+<!-- ---
+layout: page 
+# Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing
+--- -->
+
+<!-- [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) -->
+
+<img align="center" src="images/SFO.png" width="192"> <img align="right" src="images/logo.png" width="60"> 
+
+# Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing
+
+<b>Sujoy Roychowdhury, Preeti Rao, Sharat Chandran </b>
 
 ## Abstract
 
@@ -21,16 +32,14 @@ Vocal concerts in Indian music are invariably associated with the
   cameras on two music information retrieval tasks. We offer insights
   for single and multi-view processing of videos.
 
-## Authors
+## Supplementary Material
 
-Sujoy Roychowdhury
-Preeti Rao
-Sharat Chandran
+This webpage provides supplementary material for the paper - Human Pose Estimation for Expressive Movement Descriptors in Vocal Music Performances. This paper will be presented at <a href="https://ismir2024.ismir.net/" target="_blank">ISMIR 2024</a>
 
-## Published in
+ 
+[Read the paper](pdf/paper.pdf)
 
-25th International Society for Music Information Retrieval (ISMIR) Conference, from November 10–14, 2024 in San Francisco, CA, USA
+[Stable Note Detection](stableNote.md)
 
+[Singer ID Detection](singerID.md)
 
-              
-     
