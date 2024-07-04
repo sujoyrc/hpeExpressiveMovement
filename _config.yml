@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Exploring the correspondence of melodic contour with gesture in raga alap singing
+title: Human Pose Estimation for Expressive Movement Descriptors in Vocal Music Performance
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Supplementary Material 
