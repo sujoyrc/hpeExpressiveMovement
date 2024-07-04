@@ -1,1 +1,1 @@
-This is a placeholder
+This is a placeholder for details on the Stable Note Classifier
