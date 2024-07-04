@@ -34,7 +34,7 @@ Vocal concerts in Indian music are invariably associated with the
 
 ## Supplementary Material
 
-This webpage provides supplementary material for the paper - Human Pose Estimation for Expressive Movement Descriptors in Vocal Music Performances. This paper will be presented at <a href="https://ismir2024.ismir.net/" target="_blank">ISMIR 2024</a>
+This webpage provides supplementary material for the paper - Human Pose Estimation for Expressive Movement Descriptors in Vocal Music Performances. This paper will be presented at <a href="https://ismir2024.ismir.net/" target="_blank">ISMIR 2024</a>.
 
  
 [Read the paper](pdf/paper.pdf)
