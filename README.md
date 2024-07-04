@@ -23,9 +23,7 @@ Vocal concerts in Indian music are invariably associated with the
 
 ## Authors
 
-Sujoy Roychowdhury
-Preeti Rao
-Sharat Chandran
+Sujoy Roychowdhury, Preeti Rao, Sharat Chandran - Indian Institute of Technology Bombay, India
 
 ## Published in
 
