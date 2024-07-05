@@ -32,6 +32,10 @@ Vocal concerts in Indian music are invariably associated with the
   cameras on two music information retrieval tasks. We offer insights
   for single and multi-view processing of videos.
 
+## Dataset
+
+The dataset processing pipeline is present in https://github.com/DAP-Lab/hindustani_raga_dataset_processing including details on how the dataset can be downloaded. Note that this dataset and code is available for NON-COMMERCIAL RESEARCH USE ONLY.
+
 ## Supplementary Material
 
 This webpage provides supplementary material for the paper - Human Pose Estimation for Expressive Movement Descriptors in Vocal Music Performances. This paper will be presented at <a href="https://ismir2024.ismir.net/" target="_blank">ISMIR 2024</a>.
