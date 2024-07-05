@@ -34,7 +34,9 @@ Vocal concerts in Indian music are invariably associated with the
 
 ## Dataset
 
-The dataset processing pipeline is present in https://github.com/DAP-Lab/hindustani_raga_dataset_processing including details on how the dataset can be downloaded. Note that this dataset and code is available for NON-COMMERCIAL RESEARCH USE ONLY.
+The dataset processing pipeline is available on [Hindustani Raga Dataset Processing](https://github.com/DAP-Lab/hindustani_raga_dataset_processing), including details on how the dataset can be downloaded.
+
+*Note that this dataset and code is available for **NON-COMMERCIAL RESEARCH USE ONLY**.*
 
 ## Supplementary Material
 
